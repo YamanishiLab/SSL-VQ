@@ -1,4 +1,5 @@
 /PiModel/data/*
 /PiModel/scr_train/00_DataPreparation_Disease79_ProteinKnown.ipynb
 /PiModel/scr_train/00_DataPreparation_Integrate_Disease79_ProteinKnown.ipynb
+/PiModel/scr_train/.ipynb_checkpoints
 /VAE/data/*
