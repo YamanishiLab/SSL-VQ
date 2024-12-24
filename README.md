@@ -50,11 +50,10 @@ cd ./SSL_VQ/
 
 ## Downloading data :earth_asia:
 
-Please download datasets required for this method from [URL](URL), and put the downloaded `data` and `data_userdata` folders under the this repository.
-Note that in the peer review step, the datasets have already been included in this repository.
+Please download datasets required for this method from [here](https://yamanishi.cs.i.nagoya-u.ac.jp/sslvq/), and put the downloaded `data` folders under the this repository.
 ```
-mv /path/to/the/downloaded/data/folder /path/to/this/repo/
-mv /path/to/the/downloaded/data_userdata/folder /path/to/this/repo/
+mv /path/to/the/downloaded/data/PiModel/data/folder /path/to/this/repo/PiModel/
+mv /path/to/the/downloaded/data/VAE/data/folder /path/to/this/repo/VAE/
 ```
 <br>
 
@@ -62,13 +61,13 @@ mv /path/to/the/downloaded/data_userdata/folder /path/to/this/repo/
 
 ## Contents
 
-- Protein signature construction with VQ-VAE: `./VAE/scr_VQ_VAE_target/`
-- Disease signature construction with VQ-VAE: `./VAE/scr_VQ_VAE_disease/`
-- Protein signature construction with VAE: `./VAE/scr_VAE_target/`
-- Disease signature construction with VAE: `./VAE/scr_VAE_disease/`
-- Therapeutic target prediction with SSL-VQ: `./PiModel/`
-- Therapeutic target–disease association data of goldstandard set: `./semisupervised/data/`
-- Therapeutic target–disease association data of uncharacterized disease set: `./semisupervised/data_old/`
+- Protein signature construction with VQ-VAE: `/VAE/scr_VQ_VAE_target/`
+- Disease signature construction with VQ-VAE: `/VAE/scr_VQ_VAE_disease/`
+- Protein signature construction with VAE: `/VAE/scr_VAE_target/`
+- Disease signature construction with VAE: `/VAE/scr_VAE_disease/`
+- Therapeutic target prediction with SSL-VQ: `/PiModel/`
+- Therapeutic target–disease association data of goldstandard set: `/semisupervised/data/`
+- Therapeutic target–disease association data of uncharacterized disease set: `/semisupervised/data_old/`
 - Requirements: `./env/requirements.txt`
 
 
