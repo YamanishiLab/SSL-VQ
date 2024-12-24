@@ -120,6 +120,12 @@ The example command parameters mean:
 
 
 
+## License :notebook_with_decorative_cover:
+
+This project is licensed under the LICENSE - see the [LICENSE](https://github.com/YamanishiLab/SSL-VQ/blob/main/LICENCE.txt) file for details
+
+
+
 ## Contact
 
 For any question, you can contact Yoshihiro Yamanishi ([yamanishi@i.nagoya-u.ac.jp](mailto:yamanishi@i.nagoya-u.ac.jp))
