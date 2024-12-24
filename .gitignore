@@ -5,3 +5,4 @@
 /PiModel/scr_train/old/*
 /PiModel/scr_train/except/*
 /VAE/data/*
+/VAE/scr_VQ_VAE_target/.ipynb_checkpoints
