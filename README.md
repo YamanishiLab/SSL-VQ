@@ -4,11 +4,18 @@
 
 ![alt text](figure1.png)
 
+
+
 ## Publication/Citation
 
-The study of `SSL-VQ` is described in the manuscript. 
+The study of `SSL-VQ` is described in the manuscript [manuscript](URL). 
 
-- Satoko Namba, Chen Li, Noriko Otani and Yoshihiro Yamanishi. Vector-quantized variational autoencoders for semi-supervised prediction of therapeutic targets across diverse diseases 
+```
+Satoko Namba, Chen Li, Noriko Otani and Yoshihiro Yamanishi. Vector-quantized variational autoencoders for semi-supervised prediction of therapeutic targets across diverse diseases 
+```
+<br>
+
+
 
 ## Installation
 
