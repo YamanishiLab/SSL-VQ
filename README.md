@@ -43,8 +43,10 @@ Datails on system requirements is contained in the following file: `env/requirem
 Just clone this repository.
 
 ```
+git clone this-repo-url
 cd ./SSL_VQ/
 ```
+
 
 ## Contents
 
