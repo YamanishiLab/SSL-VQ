@@ -6,7 +6,7 @@
 
 
 
-## Publication/Citation
+## Publication/Citation :link:
 
 The study of `SSL-VQ` is described in the manuscript [manuscript](URL). 
 
@@ -38,7 +38,7 @@ Datails on system requirements is contained in the following file: `env/requirem
 <br>
 
 
-## Installation
+## Installation :pick:
 
 Just clone this repository.
 
@@ -72,7 +72,7 @@ mv /path/to/the/downloaded/data/VAE/data/folder /path/to/this/repo/VAE/
 
 
 
-## Usage
+## Usage :technologist:
 
 ### 1. Train SSL-VQ model.
 
