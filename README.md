@@ -59,12 +59,7 @@ cd ./SSL_VQ/
 - Therapeutic target–disease association data of uncharacterized disease set: `./semisupervised/data_old/`
 - Requirements: `./env/requirements.txt`
 
-## Requirements
 
-The software is developed and tested in Mac OS environments.
-To run SSL-VQ, you need to check the following libraries.
-
-- `./env/requirements.txt`
 
 ## Usage
 
