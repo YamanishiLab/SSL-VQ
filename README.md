@@ -74,13 +74,21 @@ $ cd ./PiModel/scr_train
 If you want to train predictive model for inhibitory targets.
 
 ```
-$ python3 ./01_Pi_NN_concat.py --fold_number=1 --pert_type=trt_sh.cgs --gene_hidden_sizes 1024 512 256 --gene_epochs=2000
+$ python3 ./01_Pi_NN_concat.py \
+--fold_number=1 \
+--pert_type=trt_sh.cgs \
+--gene_hidden_sizes 1024 512 256 \
+--gene_epochs=2000
 ```
 
 If you want to train predictive model for activatory targets.
 
 ```
-$ python3 ./01_Pi_NN_concat.py --fold_number=1 --pert_type=trt_oe --gene_hidden_sizes 1024 512 256 --gene_epochs=2000
+$ python3 ./01_Pi_NN_concat.py \
+--fold_number=1 \
+--pert_type=trt_oe \ 
+--gene_hidden_sizes 1024 512 256 \
+--gene_epochs=2000
 ```
 
 The example command parameters mean:
