@@ -21,19 +21,19 @@ Journal name, page number, year.
 
 ## Prerequisites :memo:
 
-The software is developed and tested in Mac OS environment (Apple M1 MacBook Pro, Computer memory 64 GB, Sonoma 14.1.1).
+The software is developed and tested in Mac OS environment (Apple iMac, Processor 3.6 GHz, 10 core Inter Core i9, Computer memory 128 GB 2267 MHz DDR4, Sonoma 14.4.1).
 
-The basic requirements for running TRESOR are [python>=3.10](https://www.python.org/) with the following packages:
-- [python=3.10.6](https://www.python.org/)
+The basic requirements for running TRESOR are [python>=3.11](https://www.python.org/) with the following packages:
+- [python=3.11.6](https://www.python.org/)
+- [matplotlib==3.8.2](https://matplotlib.org/)
+- [numpy=1.26.2](https://numpy.org/)
 - [pandas==2.1.3](https://pandas.pydata.org/)
-- [numpy=1.26.4](https://numpy.org/)
-- [gpyopt==1.2.6](https://sheffieldml.github.io/GPyOpt/)
-- [scikit-learn==1.3.2](https://scikit-learn.org/stable/)
-- [scipy==1.11.4](https://scipy.org/)
-- [matplotlib==3.6.2](https://matplotlib.org/)
 - [seaborn==0.13.0](https://seaborn.pydata.org/)
+- [scikit-learn==1.3.2](https://scikit-learn.org/stable/)
+- [torch==2.1.1](https://pytorch.org/)
+- [torcheval==0.0.7](https://pytorch.org/torcheval/stable/)
 
-Datails on system requirements is contained in the following file: `__for_install__/environment.yaml`.
+Datails on system requirements is contained in the following file: `env/requirements.txt`.
 
 <br>
 
