@@ -44,7 +44,7 @@ Just clone this repository.
 
 ```
 git clone this-repo-url
-cd ./SSL_VQ/
+cd /path/to/this/repo/
 ```
 
 
