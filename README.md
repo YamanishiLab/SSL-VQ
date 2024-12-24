@@ -113,7 +113,7 @@ The example command parameters mean:
 
 ### 2. Predict novel therapeutic targets.
 
-If you want to train predictive model for inhibitory targets.
+If you want to predict new inhibitory targets with the trained model.
 
 ```
 $ python3 ./02_NewPredict.py \
@@ -123,7 +123,7 @@ $ python3 ./02_NewPredict.py \
 --gene_epochs=2000
 ```
 
-If you want to train predictive model for activatory targets.
+If you want to predict new activatory targets with the trained model.
 
 ```
 $ python3 ./02_NewPredict.py \
