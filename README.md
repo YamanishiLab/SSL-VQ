@@ -48,6 +48,18 @@ cd ./SSL_VQ/
 ```
 
 
+## Downloading data :earth_asia:
+
+Please download datasets required for this method from [URL](URL), and put the downloaded `data` and `data_userdata` folders under the this repository.
+Note that in the peer review step, the datasets have already been included in this repository.
+```
+mv /path/to/the/downloaded/data/folder /path/to/this/repo/
+mv /path/to/the/downloaded/data_userdata/folder /path/to/this/repo/
+```
+<br>
+
+
+
 ## Contents
 
 - Protein signature construction with VQ-VAE: `./VAE/scr_VQ_VAE_target/`
