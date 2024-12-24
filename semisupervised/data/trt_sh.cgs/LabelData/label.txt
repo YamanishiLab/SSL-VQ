@@ -1,0 +1,530 @@
+disease_id	entrezgene	gene	disease_name	disease_name_ja	UMLS_id	disease_degree
+H00003	hsa:25	ABL1	Acute myeloid leukemia	急性骨髄性白血病	C0023467	18
+H00003	hsa:3717	JAK2	Acute myeloid leukemia	急性骨髄性白血病	C0023467	18
+H00003	hsa:2322	FLT3	Acute myeloid leukemia	急性骨髄性白血病	C0023467	18
+H00003	hsa:613	BCR	Acute myeloid leukemia	急性骨髄性白血病	C0023467	18
+H00003	hsa:3815	KIT	Acute myeloid leukemia	急性骨髄性白血病	C0023467	18
+H00003	hsa:7852	CXCR4	Acute myeloid leukemia	急性骨髄性白血病	C0023467	18
+H00003	hsa:5159	PDGFRB	Acute myeloid leukemia	急性骨髄性白血病	C0023467	18
+H00003	hsa:4914	NTRK1	Acute myeloid leukemia	急性骨髄性白血病	C0023467	18
+H00003	hsa:4916	NTRK3	Acute myeloid leukemia	急性骨髄性白血病	C0023467	18
+H00003	hsa:5578	PRKCA	Acute myeloid leukemia	急性骨髄性白血病	C0023467	18
+H00003	hsa:3791	KDR	Acute myeloid leukemia	急性骨髄性白血病	C0023467	18
+H00003	hsa:7424	VEGFC	Acute myeloid leukemia	急性骨髄性白血病	C0023467	18
+H00003	hsa:3265	HRAS	Acute myeloid leukemia	急性骨髄性白血病	C0023467	18
+H00003	hsa:3845	KRAS	Acute myeloid leukemia	急性骨髄性白血病	C0023467	18
+H00003	hsa:4893	NRAS	Acute myeloid leukemia	急性骨髄性白血病	C0023467	18
+H00003	hsa:331	XIAP	Acute myeloid leukemia	急性骨髄性白血病	C0023467	18
+H00003	hsa:6387	CXCL12	Acute myeloid leukemia	急性骨髄性白血病	C0023467	18
+H00003	hsa:4609	MYC	Acute myeloid leukemia	急性骨髄性白血病	C0023467	18
+H00004	hsa:25	ABL1	Chronic myeloid leukemia	慢性骨髄性白血病	C0023473	18
+H00004	hsa:6790	AURKA	Chronic myeloid leukemia	慢性骨髄性白血病	C0023473	18
+H00004	hsa:9212	AURKB	Chronic myeloid leukemia	慢性骨髄性白血病	C0023473	18
+H00004	hsa:6795	AURKC	Chronic myeloid leukemia	慢性骨髄性白血病	C0023473	18
+H00004	hsa:3717	JAK2	Chronic myeloid leukemia	慢性骨髄性白血病	C0023473	18
+H00004	hsa:2322	FLT3	Chronic myeloid leukemia	慢性骨髄性白血病	C0023473	18
+H00004	hsa:613	BCR	Chronic myeloid leukemia	慢性骨髄性白血病	C0023473	18
+H00004	hsa:3815	KIT	Chronic myeloid leukemia	慢性骨髄性白血病	C0023473	18
+H00004	hsa:5159	PDGFRB	Chronic myeloid leukemia	慢性骨髄性白血病	C0023473	18
+H00004	hsa:4609	MYC	Chronic myeloid leukemia	慢性骨髄性白血病	C0023473	18
+H00004	hsa:6714	SRC	Chronic myeloid leukemia	慢性骨髄性白血病	C0023473	18
+H00004	hsa:5156	PDGFRA	Chronic myeloid leukemia	慢性骨髄性白血病	C0023473	18
+H00004	hsa:1969	EPHA2	Chronic myeloid leukemia	慢性骨髄性白血病	C0023473	18
+H00004	hsa:3932	LCK	Chronic myeloid leukemia	慢性骨髄性白血病	C0023473	18
+H00004	hsa:7525	YES1	Chronic myeloid leukemia	慢性骨髄性白血病	C0023473	18
+H00004	hsa:2534	FYN	Chronic myeloid leukemia	慢性骨髄性白血病	C0023473	18
+H00004	hsa:7157	TP53	Chronic myeloid leukemia	慢性骨髄性白血病	C0023473	18
+H00004	hsa:586	BCAT1	Chronic myeloid leukemia	慢性骨髄性白血病	C0023473	18
+H00010	hsa:25	ABL1	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:6790	AURKA	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:9212	AURKB	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:3717	JAK2	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:2322	FLT3	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:613	BCR	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:4914	NTRK1	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:4916	NTRK3	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:3265	HRAS	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:3845	KRAS	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:4893	NRAS	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:7525	YES1	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:5693	PSMB5	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:5689	PSMB1	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:7124	TNF	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:8792	TNFRSF11A	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:9734	HDAC9	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:9759	HDAC4	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:3065	HDAC1	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:8841	HDAC3	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:3066	HDAC2	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:55869	HDAC8	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:83933	HDAC10	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:51564	HDAC7	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:10014	HDAC5	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:3718	JAK3	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:7297	TYK2	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:6197	RPS6KA3	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:5979	RET	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:10461	MERTK	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:2932	GSK3B	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:3480	IGF1R	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:3481	IGF2	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:5743	PTGS2	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:4790	NFKB1	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:207	AKT1	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:8743	TNFSF10	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:8797	TNFRSF10A	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:8795	TNFRSF10B	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:596	BCL2	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:3569	IL6	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:6097	RORC	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:2261	FGFR3	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:1432	MAPK14	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:5600	MAPK11	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:6300	MAPK12	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:5603	MAPK13	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:958	CD40	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:4582	MUC1	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:3592	IL12A	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:3593	IL12B	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:6351	CCL4	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:5690	PSMB2	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:5744	PTHLH	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00010	hsa:79885	HDAC11	Multiple myeloma	多発性骨髄腫	C0026764	55
+H00630	hsa:25	ABL1	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:3717	JAK2	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:613	BCR	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:3614	IMPDH1	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:3615	IMPDH2	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:6714	SRC	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:7124	TNF	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:8792	TNFRSF11A	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:3718	JAK3	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:7297	TYK2	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:5743	PTGS2	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:4790	NFKB1	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:3569	IL6	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:6097	RORC	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:958	CD40	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:3592	IL12A	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:3593	IL12B	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:6351	CCL4	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:3716	JAK1	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:1719	DHFR	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:5594	MAPK1	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:471	ATIC	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:10673	TNFSF13B	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:6850	SYK	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:5530	PPP3CA	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:4773	NFATC2	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:6696	SPP1	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:3689	ITGB2	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:3676	ITGA4	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:3688	ITGB1	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:5532	PPP3CB	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:5533	PPP3CC	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:5534	PPP3R1	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:5535	PPP3R2	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:3383	ICAM1	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:3553	IL1B	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:3570	IL6R	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:2908	NR3C1	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:3725	JUN	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:3726	JUNB	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:2353	FOS	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:2355	FOSL2	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:8061	FOSL1	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:1386	ATF2	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:467	ATF3	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:468	ATF4	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00630	hsa:4780	NFE2L2	Rheumatoid arthritis	関節リウマチ	C0003873	47
+H00005	hsa:930	CD19	Chronic lymphocytic leukemia	慢性リンパ性白血病	C0023434	4
+H00005	hsa:7852	CXCR4	Chronic lymphocytic leukemia	慢性リンパ性白血病	C0023434	4
+H00005	hsa:6387	CXCL12	Chronic lymphocytic leukemia	慢性リンパ性白血病	C0023434	4
+H00005	hsa:695	BTK	Chronic lymphocytic leukemia	慢性リンパ性白血病	C0023434	4
+H00080	hsa:930	CD19	Systemic lupus erythematosus	全身性エリテマトーデス	C0024141	20
+H00080	hsa:695	BTK	Systemic lupus erythematosus	全身性エリテマトーデス	C0024141	20
+H00080	hsa:3569	IL6	Systemic lupus erythematosus	全身性エリテマトーデス	C0024141	20
+H00080	hsa:958	CD40	Systemic lupus erythematosus	全身性エリテマトーデス	C0024141	20
+H00080	hsa:10673	TNFSF13B	Systemic lupus erythematosus	全身性エリテマトーデス	C0024141	20
+H00080	hsa:7292	TNFSF4	Systemic lupus erythematosus	全身性エリテマトーデス	C0024141	20
+H00080	hsa:3586	IL10	Systemic lupus erythematosus	全身性エリテマトーデス	C0024141	20
+H00080	hsa:727	C5	Systemic lupus erythematosus	全身性エリテマトーデス	C0024141	20
+H00080	hsa:6850	SYK	Systemic lupus erythematosus	全身性エリテマトーデス	C0024141	20
+H00080	hsa:5530	PPP3CA	Systemic lupus erythematosus	全身性エリテマトーデス	C0024141	20
+H00080	hsa:4773	NFATC2	Systemic lupus erythematosus	全身性エリテマトーデス	C0024141	20
+H00080	hsa:7099	TLR4	Systemic lupus erythematosus	全身性エリテマトーデス	C0024141	20
+H00080	hsa:6696	SPP1	Systemic lupus erythematosus	全身性エリテマトーデス	C0024141	20
+H00080	hsa:3689	ITGB2	Systemic lupus erythematosus	全身性エリテマトーデス	C0024141	20
+H00080	hsa:3676	ITGA4	Systemic lupus erythematosus	全身性エリテマトーデス	C0024141	20
+H00080	hsa:3688	ITGB1	Systemic lupus erythematosus	全身性エリテマトーデス	C0024141	20
+H00080	hsa:5532	PPP3CB	Systemic lupus erythematosus	全身性エリテマトーデス	C0024141	20
+H00080	hsa:5533	PPP3CC	Systemic lupus erythematosus	全身性エリテマトーデス	C0024141	20
+H00080	hsa:5534	PPP3R1	Systemic lupus erythematosus	全身性エリテマトーデス	C0024141	20
+H00080	hsa:5535	PPP3R2	Systemic lupus erythematosus	全身性エリテマトーデス	C0024141	20
+H00019	hsa:6240	RRM1	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:3845	KRAS	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:10381	TUBB3	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:84617	TUBB6	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:7280	TUBB2A	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:9734	HDAC9	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:9759	HDAC4	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:3065	HDAC1	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:8841	HDAC3	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:3066	HDAC2	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:55869	HDAC8	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:83933	HDAC10	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:51564	HDAC7	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:10014	HDAC5	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:3480	IGF1R	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:3481	IGF2	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:6469	SHH	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:50846	DHH	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:5727	PTCH1	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:4233	MET	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:960	CD44	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:7298	TYMS	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:4072	EPCAM	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:7150	TOP1	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:10383	TUBB2C	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:5595	MAPK3	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:5594	MAPK1	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:10013	HDAC6	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:3685	ITGAV	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:3690	ITGB3	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:6774	STAT3	Pancreatic cancer	膵癌	C0235974	32
+H00019	hsa:22943	DKK1	Pancreatic cancer	膵癌	C0235974	32
+H00027	hsa:6240	RRM1	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:3815	KIT	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:5159	PDGFRB	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:3791	KDR	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:7424	VEGFC	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:10381	TUBB3	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:84617	TUBB6	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:7280	TUBB2A	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:7124	TNF	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:3480	IGF1R	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:3481	IGF2	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:3569	IL6	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:1432	MAPK14	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:5600	MAPK11	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:6300	MAPK12	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:5603	MAPK13	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:7422	VEGFA	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:960	CD44	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:4072	EPCAM	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:10383	TUBB2C	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:3685	ITGAV	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:3690	ITGB3	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:6774	STAT3	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:142	PARP1	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:672	BRCA1	Ovarian cancer	卵巣癌	C1140680	26
+H00027	hsa:675	BRCA2	Ovarian cancer	卵巣癌	C1140680	26
+H00031	hsa:6240	RRM1	Breast cancer	乳癌	C0006142	64
+H00031	hsa:2322	FLT3	Breast cancer	乳癌	C0006142	64
+H00031	hsa:4851	NOTCH1	Breast cancer	乳癌	C0006142	64
+H00031	hsa:4853	NOTCH2	Breast cancer	乳癌	C0006142	64
+H00031	hsa:3815	KIT	Breast cancer	乳癌	C0006142	64
+H00031	hsa:5159	PDGFRB	Breast cancer	乳癌	C0006142	64
+H00031	hsa:3791	KDR	Breast cancer	乳癌	C0006142	64
+H00031	hsa:7424	VEGFC	Breast cancer	乳癌	C0006142	64
+H00031	hsa:3265	HRAS	Breast cancer	乳癌	C0006142	64
+H00031	hsa:3845	KRAS	Breast cancer	乳癌	C0006142	64
+H00031	hsa:4893	NRAS	Breast cancer	乳癌	C0006142	64
+H00031	hsa:4609	MYC	Breast cancer	乳癌	C0006142	64
+H00031	hsa:10381	TUBB3	Breast cancer	乳癌	C0006142	64
+H00031	hsa:84617	TUBB6	Breast cancer	乳癌	C0006142	64
+H00031	hsa:7280	TUBB2A	Breast cancer	乳癌	C0006142	64
+H00031	hsa:7124	TNF	Breast cancer	乳癌	C0006142	64
+H00031	hsa:9734	HDAC9	Breast cancer	乳癌	C0006142	64
+H00031	hsa:9759	HDAC4	Breast cancer	乳癌	C0006142	64
+H00031	hsa:3065	HDAC1	Breast cancer	乳癌	C0006142	64
+H00031	hsa:8841	HDAC3	Breast cancer	乳癌	C0006142	64
+H00031	hsa:3066	HDAC2	Breast cancer	乳癌	C0006142	64
+H00031	hsa:55869	HDAC8	Breast cancer	乳癌	C0006142	64
+H00031	hsa:83933	HDAC10	Breast cancer	乳癌	C0006142	64
+H00031	hsa:51564	HDAC7	Breast cancer	乳癌	C0006142	64
+H00031	hsa:10014	HDAC5	Breast cancer	乳癌	C0006142	64
+H00031	hsa:3480	IGF1R	Breast cancer	乳癌	C0006142	64
+H00031	hsa:3481	IGF2	Breast cancer	乳癌	C0006142	64
+H00031	hsa:958	CD40	Breast cancer	乳癌	C0006142	64
+H00031	hsa:4582	MUC1	Breast cancer	乳癌	C0006142	64
+H00031	hsa:6469	SHH	Breast cancer	乳癌	C0006142	64
+H00031	hsa:50846	DHH	Breast cancer	乳癌	C0006142	64
+H00031	hsa:1956	EGFR	Breast cancer	乳癌	C0006142	64
+H00031	hsa:1950	EGF	Breast cancer	乳癌	C0006142	64
+H00031	hsa:7422	VEGFA	Breast cancer	乳癌	C0006142	64
+H00031	hsa:2064	ERBB2	Breast cancer	乳癌	C0006142	64
+H00031	hsa:2475	MTOR	Breast cancer	乳癌	C0006142	64
+H00031	hsa:3326	HSP90AB1	Breast cancer	乳癌	C0006142	64
+H00031	hsa:3320	HSP90AA1	Breast cancer	乳癌	C0006142	64
+H00031	hsa:7184	HSP90B1	Breast cancer	乳癌	C0006142	64
+H00031	hsa:960	CD44	Breast cancer	乳癌	C0006142	64
+H00031	hsa:1719	DHFR	Breast cancer	乳癌	C0006142	64
+H00031	hsa:2066	ERBB4	Breast cancer	乳癌	C0006142	64
+H00031	hsa:7298	TYMS	Breast cancer	乳癌	C0006142	64
+H00031	hsa:4072	EPCAM	Breast cancer	乳癌	C0006142	64
+H00031	hsa:10383	TUBB2C	Breast cancer	乳癌	C0006142	64
+H00031	hsa:2618	GART	Breast cancer	乳癌	C0006142	64
+H00031	hsa:10013	HDAC6	Breast cancer	乳癌	C0006142	64
+H00031	hsa:3685	ITGAV	Breast cancer	乳癌	C0006142	64
+H00031	hsa:3690	ITGB3	Breast cancer	乳癌	C0006142	64
+H00031	hsa:6774	STAT3	Breast cancer	乳癌	C0006142	64
+H00031	hsa:2321	FLT1	Breast cancer	乳癌	C0006142	64
+H00031	hsa:7423	VEGFB	Breast cancer	乳癌	C0006142	64
+H00031	hsa:2065	ERBB3	Breast cancer	乳癌	C0006142	64
+H00031	hsa:1949	EFNB3	Breast cancer	乳癌	C0006142	64
+H00031	hsa:1948	EFNB2	Breast cancer	乳癌	C0006142	64
+H00031	hsa:471	ATIC	Breast cancer	乳癌	C0006142	64
+H00031	hsa:142	PARP1	Breast cancer	乳癌	C0006142	64
+H00031	hsa:672	BRCA1	Breast cancer	乳癌	C0006142	64
+H00031	hsa:675	BRCA2	Breast cancer	乳癌	C0006142	64
+H00031	hsa:2099	ESR1	Breast cancer	乳癌	C0006142	64
+H00031	hsa:7153	TOP2A	Breast cancer	乳癌	C0006142	64
+H00031	hsa:7155	TOP2B	Breast cancer	乳癌	C0006142	64
+H00031	hsa:2100	ESR2	Breast cancer	乳癌	C0006142	64
+H00031	hsa:915	CD3D	Breast cancer	乳癌	C0006142	64
+H00018	hsa:2322	FLT3	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:3815	KIT	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:5159	PDGFRB	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:3791	KDR	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:7424	VEGFC	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:4609	MYC	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:10381	TUBB3	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:84617	TUBB6	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:7280	TUBB2A	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:3569	IL6	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:4312	MMP1	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:4316	MMP7	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:4323	MMP14	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:4233	MET	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:2064	ERBB2	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:7010	TEK	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:960	CD44	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:1719	DHFR	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:7298	TYMS	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:4072	EPCAM	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:7150	TOP1	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:10383	TUBB2C	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:4486	MST1R	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:324	APC	Gastric cancer	胃癌	C0024623	25
+H00018	hsa:2618	GART	Gastric cancer	胃癌	C0024623	25
+H00020	hsa:2322	FLT3	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:1803	DPP4	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:3815	KIT	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:5159	PDGFRB	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:3791	KDR	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:7424	VEGFC	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:3845	KRAS	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:5979	RET	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:3480	IGF1R	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:3481	IGF2	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:958	CD40	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:1956	EGFR	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:1950	EGF	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:7422	VEGFA	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:2064	ERBB2	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:2475	MTOR	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:7010	TEK	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:960	CD44	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:7298	TYMS	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:4072	EPCAM	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:7150	TOP1	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:324	APC	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:5595	MAPK3	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:5594	MAPK1	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:6774	STAT3	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:2321	FLT1	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:7423	VEGFB	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:2260	FGFR1	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:2324	FLT4	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:7471	WNT1	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:1436	CSF1R	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:2065	ERBB3	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:1949	EFNB3	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:1948	EFNB2	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:7040	TGFB1	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:7046	TGFBR1	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:7048	TGFBR2	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:1493	CTLA4	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:673	BRAF	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:23043	TNIK	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00020	hsa:5894	RAF1	Colorectal cancer	結腸・直腸癌; 大腸癌	C0009402	41
+H00021	hsa:2322	FLT3	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:1803	DPP4	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:3815	KIT	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:5159	PDGFRB	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:3791	KDR	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:7424	VEGFC	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:5979	RET	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:3569	IL6	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:958	CD40	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:7422	VEGFA	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:4233	MET	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:2475	MTOR	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:7010	TEK	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:1719	DHFR	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:4072	EPCAM	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:4486	MST1R	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:2321	FLT1	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:7423	VEGFB	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:2324	FLT4	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:1436	CSF1R	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:1493	CTLA4	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:673	BRAF	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:5894	RAF1	Renal cell carcinoma	腎細胞癌	C0007134	24
+H00021	hsa:471	ATIC	Renal cell carcinoma	腎細胞癌	C0007134	24
+H01299	hsa:2322	FLT3	Idiopathic pulmonary fibrosis	特発性肺線維症	C1800706	16
+H01299	hsa:5159	PDGFRB	Idiopathic pulmonary fibrosis	特発性肺線維症	C1800706	16
+H01299	hsa:3791	KDR	Idiopathic pulmonary fibrosis	特発性肺線維症	C1800706	16
+H01299	hsa:7424	VEGFC	Idiopathic pulmonary fibrosis	特発性肺線維症	C1800706	16
+H01299	hsa:5156	PDGFRA	Idiopathic pulmonary fibrosis	特発性肺線維症	C1800706	16
+H01299	hsa:7124	TNF	Idiopathic pulmonary fibrosis	特発性肺線維症	C1800706	16
+H01299	hsa:3569	IL6	Idiopathic pulmonary fibrosis	特発性肺線維症	C1800706	16
+H01299	hsa:2261	FGFR3	Idiopathic pulmonary fibrosis	特発性肺線維症	C1800706	16
+H01299	hsa:6351	CCL4	Idiopathic pulmonary fibrosis	特発性肺線維症	C1800706	16
+H01299	hsa:2321	FLT1	Idiopathic pulmonary fibrosis	特発性肺線維症	C1800706	16
+H01299	hsa:7423	VEGFB	Idiopathic pulmonary fibrosis	特発性肺線維症	C1800706	16
+H01299	hsa:2260	FGFR1	Idiopathic pulmonary fibrosis	特発性肺線維症	C1800706	16
+H01299	hsa:2324	FLT4	Idiopathic pulmonary fibrosis	特発性肺線維症	C1800706	16
+H01299	hsa:7040	TGFB1	Idiopathic pulmonary fibrosis	特発性肺線維症	C1800706	16
+H01299	hsa:2263	FGFR2	Idiopathic pulmonary fibrosis	特発性肺線維症	C1800706	16
+H01299	hsa:3553	IL1B	Idiopathic pulmonary fibrosis	特発性肺線維症	C1800706	16
+H00409	hsa:1803	DPP4	Type 2 diabetes mellitus	2型糖尿病	C0011860	20
+H00409	hsa:6387	CXCL12	Type 2 diabetes mellitus	2型糖尿病	C0011860	20
+H00409	hsa:7124	TNF	Type 2 diabetes mellitus	2型糖尿病	C0011860	20
+H00409	hsa:2548	GAA	Type 2 diabetes mellitus	2型糖尿病	C0011860	20
+H00409	hsa:231	AKR1B1	Type 2 diabetes mellitus	2型糖尿病	C0011860	20
+H00409	hsa:3553	IL1B	Type 2 diabetes mellitus	2型糖尿病	C0011860	20
+H00409	hsa:3554	IL1R1	Type 2 diabetes mellitus	2型糖尿病	C0011860	20
+H00409	hsa:6804	STX1A	Type 2 diabetes mellitus	2型糖尿病	C0011860	20
+H00409	hsa:5950	RBP4	Type 2 diabetes mellitus	2型糖尿病	C0011860	20
+H00409	hsa:6347	CCL2	Type 2 diabetes mellitus	2型糖尿病	C0011860	20
+H00409	hsa:5105	PCK1	Type 2 diabetes mellitus	2型糖尿病	C0011860	20
+H00409	hsa:5106	PCK2	Type 2 diabetes mellitus	2型糖尿病	C0011860	20
+H00409	hsa:2203	FBP1	Type 2 diabetes mellitus	2型糖尿病	C0011860	20
+H00409	hsa:2538	G6PC	Type 2 diabetes mellitus	2型糖尿病	C0011860	20
+H00409	hsa:5836	PYGL	Type 2 diabetes mellitus	2型糖尿病	C0011860	20
+H00409	hsa:6720	SREBF1	Type 2 diabetes mellitus	2型糖尿病	C0011860	20
+H00409	hsa:6721	SREBF2	Type 2 diabetes mellitus	2型糖尿病	C0011860	20
+H00409	hsa:2194	FASN	Type 2 diabetes mellitus	2型糖尿病	C0011860	20
+H00409	hsa:9945	GFPT2	Type 2 diabetes mellitus	2型糖尿病	C0011860	20
+H00409	hsa:5770	PTPN1	Type 2 diabetes mellitus	2型糖尿病	C0011860	20
+H00038	hsa:3815	KIT	Melanoma	悪性黒色腫	C0025202	16
+H00038	hsa:5159	PDGFRB	Melanoma	悪性黒色腫	C0025202	16
+H00038	hsa:3791	KDR	Melanoma	悪性黒色腫	C0025202	16
+H00038	hsa:7424	VEGFC	Melanoma	悪性黒色腫	C0025202	16
+H00038	hsa:4893	NRAS	Melanoma	悪性黒色腫	C0025202	16
+H00038	hsa:596	BCL2	Melanoma	悪性黒色腫	C0025202	16
+H00038	hsa:958	CD40	Melanoma	悪性黒色腫	C0025202	16
+H00038	hsa:5604	MAP2K1	Melanoma	悪性黒色腫	C0025202	16
+H00038	hsa:5605	MAP2K2	Melanoma	悪性黒色腫	C0025202	16
+H00038	hsa:3685	ITGAV	Melanoma	悪性黒色腫	C0025202	16
+H00038	hsa:3690	ITGB3	Melanoma	悪性黒色腫	C0025202	16
+H00038	hsa:6774	STAT3	Melanoma	悪性黒色腫	C0025202	16
+H00038	hsa:1493	CTLA4	Melanoma	悪性黒色腫	C0025202	16
+H00038	hsa:673	BRAF	Melanoma	悪性黒色腫	C0025202	16
+H00038	hsa:6934	TCF7L2	Melanoma	悪性黒色腫	C0025202	16
+H00038	hsa:4286	MITF	Melanoma	悪性黒色腫	C0025202	16
+H00009	hsa:100	ADA	Adult T-cell leukemia	成人T細胞性白血病	C0023493	1
+H00023	hsa:84617	TUBB6	Testicular cancer	精巣癌	C0153594	1
+H00056	hsa:7124	TNF	Alzheimer disease; Dementia due to Alzheimer disease	アルツハイマー病; アルツハイマー型認知症	C0002395	6
+H00056	hsa:5734	PTGER4	Alzheimer disease; Dementia due to Alzheimer disease	アルツハイマー病; アルツハイマー型認知症	C0002395	6
+H00056	hsa:23621	BACE1	Alzheimer disease; Dementia due to Alzheimer disease	アルツハイマー病; アルツハイマー型認知症	C0002395	6
+H00056	hsa:3146	HMGB1	Alzheimer disease; Dementia due to Alzheimer disease	アルツハイマー病; アルツハイマー型認知症	C0002395	6
+H00056	hsa:1508	CTSB	Alzheimer disease; Dementia due to Alzheimer disease	アルツハイマー病; アルツハイマー型認知症	C0002395	6
+H00056	hsa:348	APOE	Alzheimer disease; Dementia due to Alzheimer disease	アルツハイマー病; アルツハイマー型認知症	C0002395	6
+H00057	hsa:7124	TNF	Parkinson disease	パーキンソン病	C0030567	7
+H00057	hsa:1312	COMT	Parkinson disease	パーキンソン病	C0030567	7
+H00057	hsa:4129	MAOB	Parkinson disease	パーキンソン病	C0030567	7
+H00057	hsa:135	ADORA2A	Parkinson disease	パーキンソン病	C0030567	7
+H00057	hsa:6335	SCN9A	Parkinson disease	パーキンソン病	C0030567	7
+H00057	hsa:1128	CHRM1	Parkinson disease	パーキンソン病	C0030567	7
+H00057	hsa:1131	CHRM3	Parkinson disease	パーキンソン病	C0030567	7
+H01227	hsa:7124	TNF	Inflammatory bowel disease (IBD)	炎症性腸疾患 (IBD)	C0021390	17
+H01227	hsa:4790	NFKB1	Inflammatory bowel disease (IBD)	炎症性腸疾患 (IBD)	C0021390	17
+H01227	hsa:3569	IL6	Inflammatory bowel disease (IBD)	炎症性腸疾患 (IBD)	C0021390	17
+H01227	hsa:6097	RORC	Inflammatory bowel disease (IBD)	炎症性腸疾患 (IBD)	C0021390	17
+H01227	hsa:958	CD40	Inflammatory bowel disease (IBD)	炎症性腸疾患 (IBD)	C0021390	17
+H01227	hsa:3592	IL12A	Inflammatory bowel disease (IBD)	炎症性腸疾患 (IBD)	C0021390	17
+H01227	hsa:3593	IL12B	Inflammatory bowel disease (IBD)	炎症性腸疾患 (IBD)	C0021390	17
+H01227	hsa:7292	TNFSF4	Inflammatory bowel disease (IBD)	炎症性腸疾患 (IBD)	C0021390	17
+H01227	hsa:5530	PPP3CA	Inflammatory bowel disease (IBD)	炎症性腸疾患 (IBD)	C0021390	17
+H01227	hsa:5532	PPP3CB	Inflammatory bowel disease (IBD)	炎症性腸疾患 (IBD)	C0021390	17
+H01227	hsa:5533	PPP3CC	Inflammatory bowel disease (IBD)	炎症性腸疾患 (IBD)	C0021390	17
+H01227	hsa:5534	PPP3R1	Inflammatory bowel disease (IBD)	炎症性腸疾患 (IBD)	C0021390	17
+H01227	hsa:5535	PPP3R2	Inflammatory bowel disease (IBD)	炎症性腸疾患 (IBD)	C0021390	17
+H01227	hsa:6775	STAT4	Inflammatory bowel disease (IBD)	炎症性腸疾患 (IBD)	C0021390	17
+H01227	hsa:3458	IFNG	Inflammatory bowel disease (IBD)	炎症性腸疾患 (IBD)	C0021390	17
+H01227	hsa:3553	IL1B	Inflammatory bowel disease (IBD)	炎症性腸疾患 (IBD)	C0021390	17
+H01227	hsa:149233	IL23R	Inflammatory bowel disease (IBD)	炎症性腸疾患 (IBD)	C0021390	17
+H01358	hsa:7124	TNF	Atopic dermatitis	アトピー性皮膚炎	C0011615	16
+H01358	hsa:3592	IL12A	Atopic dermatitis	アトピー性皮膚炎	C0011615	16
+H01358	hsa:3567	IL5	Atopic dermatitis	アトピー性皮膚炎	C0011615	16
+H01358	hsa:3596	IL13	Atopic dermatitis	アトピー性皮膚炎	C0011615	16
+H01358	hsa:3269	HRH1	Atopic dermatitis	アトピー性皮膚炎	C0011615	16
+H01358	hsa:3565	IL4	Atopic dermatitis	アトピー性皮膚炎	C0011615	16
+H01358	hsa:3586	IL10	Atopic dermatitis	アトピー性皮膚炎	C0011615	16
+H01358	hsa:5530	PPP3CA	Atopic dermatitis	アトピー性皮膚炎	C0011615	16
+H01358	hsa:5532	PPP3CB	Atopic dermatitis	アトピー性皮膚炎	C0011615	16
+H01358	hsa:5533	PPP3CC	Atopic dermatitis	アトピー性皮膚炎	C0011615	16
+H01358	hsa:5534	PPP3R1	Atopic dermatitis	アトピー性皮膚炎	C0011615	16
+H01358	hsa:5535	PPP3R2	Atopic dermatitis	アトピー性皮膚炎	C0011615	16
+H01358	hsa:3458	IFNG	Atopic dermatitis	アトピー性皮膚炎	C0011615	16
+H01358	hsa:85480	TSLP	Atopic dermatitis	アトピー性皮膚炎	C0011615	16
+H01358	hsa:7132	TNFRSF1A	Atopic dermatitis	アトピー性皮膚炎	C0011615	16
+H01358	hsa:196	AHR	Atopic dermatitis	アトピー性皮膚炎	C0011615	16
+H00286	hsa:4790	NFKB1	Crohn disease	クローン病	C0010346	7
+H00286	hsa:958	CD40	Crohn disease	クローン病	C0010346	7
+H00286	hsa:3592	IL12A	Crohn disease	クローン病	C0010346	7
+H00286	hsa:3593	IL12B	Crohn disease	クローン病	C0010346	7
+H00286	hsa:3689	ITGB2	Crohn disease	クローン病	C0010346	7
+H00286	hsa:3676	ITGA4	Crohn disease	クローン病	C0010346	7
+H00286	hsa:3688	ITGB1	Crohn disease	クローン病	C0010346	7
+H00408	hsa:958	CD40	Type 1 diabetes mellitus	1型糖尿病	C0011854	4
+H00408	hsa:915	CD3D	Type 1 diabetes mellitus	1型糖尿病	C0011854	4
+H00408	hsa:7292	TNFSF4	Type 1 diabetes mellitus	1型糖尿病	C0011854	4
+H00408	hsa:3458	IFNG	Type 1 diabetes mellitus	1型糖尿病	C0011854	4
+H00013	hsa:6469	SHH	Small cell lung cancer	小細胞肺癌	C0149925	6
+H00013	hsa:50846	DHH	Small cell lung cancer	小細胞肺癌	C0149925	6
+H00013	hsa:5727	PTCH1	Small cell lung cancer	小細胞肺癌	C0149925	6
+H00013	hsa:4312	MMP1	Small cell lung cancer	小細胞肺癌	C0149925	6
+H00013	hsa:4316	MMP7	Small cell lung cancer	小細胞肺癌	C0149925	6
+H00013	hsa:4323	MMP14	Small cell lung cancer	小細胞肺癌	C0149925	6
+H00030	hsa:2064	ERBB2	Cervical cancer	子宮頸癌	C0007873	9
+H00030	hsa:960	CD44	Cervical cancer	子宮頸癌	C0007873	9
+H00030	hsa:7298	TYMS	Cervical cancer	子宮頸癌	C0007873	9
+H00030	hsa:2065	ERBB3	Cervical cancer	子宮頸癌	C0007873	9
+H00030	hsa:7048	TGFBR2	Cervical cancer	子宮頸癌	C0007873	9
+H00030	hsa:142	PARP1	Cervical cancer	子宮頸癌	C0007873	9
+H00030	hsa:672	BRCA1	Cervical cancer	子宮頸癌	C0007873	9
+H00030	hsa:675	BRCA2	Cervical cancer	子宮頸癌	C0007873	9
+H00030	hsa:841	CASP8	Cervical cancer	子宮頸癌	C0007873	9
+H00413	hsa:4072	EPCAM	Hepatitis C; Hepatitis C virus (HCV) infection	C型肝炎	C0019196	1
+H00026	hsa:2263	FGFR2	Endometrial cancer	子宮内膜癌	C0476089	1
+H00079	hsa:135	ADORA2A	Asthma	喘息	C0004096	10
+H00079	hsa:1128	CHRM1	Asthma	喘息	C0004096	10
+H00079	hsa:1131	CHRM3	Asthma	喘息	C0004096	10
+H00079	hsa:3567	IL5	Asthma	喘息	C0004096	10
+H00079	hsa:3596	IL13	Asthma	喘息	C0004096	10
+H00079	hsa:6915	TBXA2R	Asthma	喘息	C0004096	10
+H00079	hsa:5144	PDE4D	Asthma	喘息	C0004096	10
+H00079	hsa:3269	HRH1	Asthma	喘息	C0004096	10
+H00079	hsa:3566	IL4R	Asthma	喘息	C0004096	10
+H00079	hsa:3565	IL4	Asthma	喘息	C0004096	10
+H00342	hsa:1128	CHRM1	Tuberculosis	結核	C0041296	3
+H00342	hsa:1131	CHRM3	Tuberculosis	結核	C0041296	3
+H00342	hsa:3269	HRH1	Tuberculosis	結核	C0041296	3
+H01132	hsa:5530	PPP3CA	Aplastic anemia	再生不良性貧血	C0002874	6
+H01132	hsa:4773	NFATC2	Aplastic anemia	再生不良性貧血	C0002874	6
+H01132	hsa:5532	PPP3CB	Aplastic anemia	再生不良性貧血	C0002874	6
+H01132	hsa:5533	PPP3CC	Aplastic anemia	再生不良性貧血	C0002874	6
+H01132	hsa:5534	PPP3R1	Aplastic anemia	再生不良性貧血	C0002874	6
+H01132	hsa:5535	PPP3R2	Aplastic anemia	再生不良性貧血	C0002874	6
+H00590	hsa:6696	SPP1	Congenital muscular dystrophies (CMD/MDC)	先天性筋ジストロフィー	C0026850	1
+H00155	hsa:4547	MTTP	Familial hypercholesterolemia; Autosomal dominant hypercholesterolaemia	家族性高コレステロール血症	C0020445	7
+H00155	hsa:3156	HMGCR	Familial hypercholesterolemia; Autosomal dominant hypercholesterolaemia	家族性高コレステロール血症	C0020445	7
+H00155	hsa:2222	FDFT1	Familial hypercholesterolemia; Autosomal dominant hypercholesterolaemia	家族性高コレステロール血症	C0020445	7
+H00155	hsa:38	ACAT1	Familial hypercholesterolemia; Autosomal dominant hypercholesterolaemia	家族性高コレステロール血症	C0020445	7
+H00155	hsa:39	ACAT2	Familial hypercholesterolemia; Autosomal dominant hypercholesterolaemia	家族性高コレステロール血症	C0020445	7
+H00155	hsa:775	CACNA1C	Familial hypercholesterolemia; Autosomal dominant hypercholesterolaemia	家族性高コレステロール血症	C0020445	7
+H00155	hsa:776	CACNA1D	Familial hypercholesterolemia; Autosomal dominant hypercholesterolaemia	家族性高コレステロール血症	C0020445	7

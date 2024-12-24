@@ -1,0 +1,46 @@
+disease_id	entrezgene	gene	disease_name	disease_name_ja	UMLS_id	disease_degree
+H00003	hsa:6850	SYK	Acute myeloid leukemia	‹}«œ‘«”’ŒŒ•a	C0023467	1
+H00031	hsa:6850	SYK	Breast cancer	“ûŠà	C0006142	9
+H00031	hsa:7157	TP53	Breast cancer	“ûŠà	C0006142	9
+H00031	hsa:55294	FBXW7	Breast cancer	“ûŠà	C0006142	9
+H00031	hsa:8651	SOCS1	Breast cancer	“ûŠà	C0006142	9
+H00031	hsa:8835	SOCS2	Breast cancer	“ûŠà	C0006142	9
+H00031	hsa:8835	(SOCS2)	Breast cancer	“ûŠà	C0006142	9
+H00031	hsa:9021	SOCS3	Breast cancer	“ûŠà	C0006142	9
+H00031	hsa:122809	SOCS4	Breast cancer	“ûŠà	C0006142	9
+H00031	hsa:9306	SOCS6	Breast cancer	“ûŠà	C0006142	9
+H00004	hsa:3455	IFNAR2	Chronic myeloid leukemia	–«œ‘«”’ŒŒ•a	C0023473	1
+H00010	hsa:3455	IFNAR2	Multiple myeloma	‘½”­«œ‘î	C0026764	1
+H00021	hsa:3455	IFNAR2	Renal cell carcinoma	t×–EŠà	C0007134	3
+H00021	hsa:3560	IL2RB	Renal cell carcinoma	t×–EŠà	C0007134	3
+H00021	hsa:3459	IFNGR1	Renal cell carcinoma	t×–EŠà	C0007134	3
+H00020	hsa:7157	TP53	Colorectal cancer	Œ‹’°E’¼’°Šà; ‘å’°Šà	C0009402	1
+H00027	hsa:55294	FBXW7	Ovarian cancer	—‘‘ƒŠà	C1140680	1
+H00057	hsa:1812	DRD1	Parkinson disease	ƒp[ƒLƒ“ƒ\ƒ“•a	C0030567	3
+H00057	hsa:7054	TH	Parkinson disease	ƒp[ƒLƒ“ƒ\ƒ“•a	C0030567	3
+H00057	hsa:10891	PPARGC1A	Parkinson disease	ƒp[ƒLƒ“ƒ\ƒ“•a	C0030567	3
+H00409	hsa:10891	PPARGC1A	Type 2 diabetes mellitus	2Œ^“œ”A•a	C0011860	17
+H00409	hsa:5468	PPARG	Type 2 diabetes mellitus	2Œ^“œ”A•a	C0011860	17
+H00409	hsa:2645	GCK	Type 2 diabetes mellitus	2Œ^“œ”A•a	C0011860	17
+H00409	hsa:2864	FFAR1	Type 2 diabetes mellitus	2Œ^“œ”A•a	C0011860	17
+H00409	hsa:11069	RAPGEF4	Type 2 diabetes mellitus	2Œ^“œ”A•a	C0011860	17
+H00409	hsa:139760	GPR119	Type 2 diabetes mellitus	2Œ^“œ”A•a	C0011860	17
+H00409	hsa:4023	LPL	Type 2 diabetes mellitus	2Œ^“œ”A•a	C0011860	17
+H00409	hsa:5564	PRKAB1	Type 2 diabetes mellitus	2Œ^“œ”A•a	C0011860	17
+H00409	hsa:5565	PRKAB2	Type 2 diabetes mellitus	2Œ^“œ”A•a	C0011860	17
+H00409	hsa:5571	PRKAG1	Type 2 diabetes mellitus	2Œ^“œ”A•a	C0011860	17
+H00409	hsa:51422	PRKAG2	Type 2 diabetes mellitus	2Œ^“œ”A•a	C0011860	17
+H00409	hsa:53632	PRKAG3	Type 2 diabetes mellitus	2Œ^“œ”A•a	C0011860	17
+H00409	hsa:4899	NRF1	Type 2 diabetes mellitus	2Œ^“œ”A•a	C0011860	17
+H00409	hsa:4780	NFE2L2	Type 2 diabetes mellitus	2Œ^“œ”A•a	C0011860	17
+H00409	hsa:23411	SIRT1	Type 2 diabetes mellitus	2Œ^“œ”A•a	C0011860	17
+H00409	hsa:9971	NR1H4	Type 2 diabetes mellitus	2Œ^“œ”A•a	C0011860	17
+H00409	hsa:5568	PRKACG	Type 2 diabetes mellitus	2Œ^“œ”A•a	C0011860	17
+H00098	hsa:3458	IFNG	Chronic granulomatous disease	–«“÷‰èîÇ	C0018203	1
+H00286	hsa:3586	IL10	Crohn disease	ƒNƒ[ƒ“•a	C0010346	1
+H01227	hsa:3586	IL10	Inflammatory bowel disease (IBD)	‰ŠÇ«’°¾Š³ (IBD)	C0021390	1
+H00408	hsa:1493	CTLA4	Type 1 diabetes mellitus	1Œ^“œ”A•a	C0011854	2
+H00408	hsa:80380	PDCD1LG2	Type 1 diabetes mellitus	1Œ^“œ”A•a	C0011854	2
+H00630	hsa:1493	CTLA4	Rheumatoid arthritis	ŠÖßƒŠƒEƒ}ƒ`	C0003873	1
+H00440	hsa:4204	MECP2	Rett syndrome	ƒŒƒbƒgÇŒóŒQ	C0035372	1
+H01132	hsa:367	AR	Aplastic anemia	Ä¶•s—Ç«•nŒŒ	C0002874	1

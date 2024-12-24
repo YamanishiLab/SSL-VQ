@@ -1,0 +1,92 @@
+UMLS_id	entrezgene	gene	disease_id	disease_name	disease_name_ja	disease_degree
+C0023467	hsa:2908	NR3C1	H00003	Acute myeloid leukemia	急性骨髄性白血病	7
+C0023467	hsa:6850	SYK	H00003	Acute myeloid leukemia	急性骨髄性白血病	7
+C0023467	hsa:5371	PML	H00003	Acute myeloid leukemia	急性骨髄性白血病	7
+C0023467	hsa:5914	RARA	H00003	Acute myeloid leukemia	急性骨髄性白血病	7
+C0023467	hsa:5915	RARB	H00003	Acute myeloid leukemia	急性骨髄性白血病	7
+C0023467	hsa:5916	RARG	H00003	Acute myeloid leukemia	急性骨髄性白血病	7
+C0023467	hsa:7157	TP53	H00003	Acute myeloid leukemia	急性骨髄性白血病	7
+C0023473	hsa:2908	NR3C1	H00004	Chronic myeloid leukemia	慢性骨髄性白血病	2
+C0023473	hsa:3455	IFNAR2	H00004	Chronic myeloid leukemia	慢性骨髄性白血病	2
+C0023434	hsa:2908	NR3C1	H00005	Chronic lymphocytic leukemia	慢性リンパ性白血病	1
+C0003873	hsa:2908	NR3C1	H00630	Rheumatoid arthritis	関節リウマチ	2
+C0003873	hsa:1493	CTLA4	H00630	Rheumatoid arthritis	関節リウマチ	2
+C0021390	hsa:2908	NR3C1	H01227	Inflammatory bowel disease (IBD)	炎症性腸疾患 (IBD)	2
+C0021390	hsa:3586	IL10	H01227	Inflammatory bowel disease (IBD)	炎症性腸疾患 (IBD)	2
+C0162820	hsa:2908	NR3C1	H01357	Allergic contact dermatitis	アレルギー性接触性皮膚炎	1
+C0011615	hsa:2908	NR3C1	H01358	Atopic dermatitis	アトピー性皮膚炎	2
+C0011615	hsa:3586	IL10	H01358	Atopic dermatitis	アトピー性皮膚炎	2
+C0009324	hsa:2908	NR3C1	H01466	Ulcerative colitis	潰瘍性大腸炎	3
+C0009324	hsa:3586	IL10	H01466	Ulcerative colitis	潰瘍性大腸炎	3
+C0009324	hsa:1493	CTLA4	H01466	Ulcerative colitis	潰瘍性大腸炎	3
+C0004096	hsa:2908	NR3C1	H00079	Asthma	喘息	8
+C0004096	hsa:8651	SOCS1	H00079	Asthma	喘息	8
+C0004096	hsa:8835	SOCS2	H00079	Asthma	喘息	8
+C0004096	hsa:8835	(SOCS2)	H00079	Asthma	喘息	8
+C0004096	hsa:122809	SOCS4	H00079	Asthma	喘息	8
+C0004096	hsa:9306	SOCS6	H00079	Asthma	喘息	8
+C0004096	hsa:154	ADRB2	H00079	Asthma	喘息	8
+C0004096	hsa:135	ADORA2A	H00079	Asthma	喘息	8
+C0398650	hsa:2908	NR3C1	H01240	Immune thrombocytopenia; Autoimmune thrombocytopenic purpura	自己免疫性血小板減少性紫斑病	1
+C0006142	hsa:6850	SYK	H00031	Breast cancer	乳癌	9
+C0006142	hsa:7157	TP53	H00031	Breast cancer	乳癌	9
+C0006142	hsa:55294	FBXW7	H00031	Breast cancer	乳癌	9
+C0006142	hsa:8651	SOCS1	H00031	Breast cancer	乳癌	9
+C0006142	hsa:8835	SOCS2	H00031	Breast cancer	乳癌	9
+C0006142	hsa:8835	(SOCS2)	H00031	Breast cancer	乳癌	9
+C0006142	hsa:9021	SOCS3	H00031	Breast cancer	乳癌	9
+C0006142	hsa:122809	SOCS4	H00031	Breast cancer	乳癌	9
+C0006142	hsa:9306	SOCS6	H00031	Breast cancer	乳癌	9
+C0009402	hsa:7157	TP53	H00020	Colorectal cancer	結腸・直腸癌; 大腸癌	1
+C0026764	hsa:3455	IFNAR2	H00010	Multiple myeloma	多発性骨髄腫	1
+C0007134	hsa:3455	IFNAR2	H00021	Renal cell carcinoma	腎細胞癌	3
+C0007134	hsa:3560	IL2RB	H00021	Renal cell carcinoma	腎細胞癌	3
+C0007134	hsa:3459	IFNGR1	H00021	Renal cell carcinoma	腎細胞癌	3
+C0025202	hsa:3455	IFNAR2	H00038	Melanoma	悪性黒色腫	1
+C0019196	hsa:3455	IFNAR2	H00413	Hepatitis C; Hepatitis C virus (HCV) infection	C型肝炎	1
+C0235974	hsa:7015	TERT	H00019	Pancreatic cancer	膵癌	1
+C1140680	hsa:55294	FBXW7	H00027	Ovarian cancer	卵巣癌	1
+C0002395	hsa:3360	HTR4	H00056	Alzheimer disease; Dementia due to Alzheimer disease	アルツハイマー病; アルツハイマー型認知症	2
+C0002395	hsa:23411	SIRT1	H00056	Alzheimer disease; Dementia due to Alzheimer disease	アルツハイマー病; アルツハイマー型認知症	2
+C0011860	hsa:23411	SIRT1	H00409	Type 2 diabetes mellitus	2型糖尿病	18
+C0011860	hsa:5468	PPARG	H00409	Type 2 diabetes mellitus	2型糖尿病	18
+C0011860	hsa:2645	GCK	H00409	Type 2 diabetes mellitus	2型糖尿病	18
+C0011860	hsa:5562	PRKAA1	H00409	Type 2 diabetes mellitus	2型糖尿病	18
+C0011860	hsa:2864	FFAR1	H00409	Type 2 diabetes mellitus	2型糖尿病	18
+C0011860	hsa:11069	RAPGEF4	H00409	Type 2 diabetes mellitus	2型糖尿病	18
+C0011860	hsa:139760	GPR119	H00409	Type 2 diabetes mellitus	2型糖尿病	18
+C0011860	hsa:4023	LPL	H00409	Type 2 diabetes mellitus	2型糖尿病	18
+C0011860	hsa:5564	PRKAB1	H00409	Type 2 diabetes mellitus	2型糖尿病	18
+C0011860	hsa:5565	PRKAB2	H00409	Type 2 diabetes mellitus	2型糖尿病	18
+C0011860	hsa:5571	PRKAG1	H00409	Type 2 diabetes mellitus	2型糖尿病	18
+C0011860	hsa:51422	PRKAG2	H00409	Type 2 diabetes mellitus	2型糖尿病	18
+C0011860	hsa:53632	PRKAG3	H00409	Type 2 diabetes mellitus	2型糖尿病	18
+C0011860	hsa:4899	NRF1	H00409	Type 2 diabetes mellitus	2型糖尿病	18
+C0011860	hsa:4780	NFE2L2	H00409	Type 2 diabetes mellitus	2型糖尿病	18
+C0011860	hsa:9971	NR1H4	H00409	Type 2 diabetes mellitus	2型糖尿病	18
+C0011860	hsa:5568	PRKACG	H00409	Type 2 diabetes mellitus	2型糖尿病	18
+C0011860	hsa:5906	RAP1A	H00409	Type 2 diabetes mellitus	2型糖尿病	18
+C0030567	hsa:154	ADRB2	H00057	Parkinson disease	パーキンソン病	5
+C0030567	hsa:1812	DRD1	H00057	Parkinson disease	パーキンソン病	5
+C0030567	hsa:7054	TH	H00057	Parkinson disease	パーキンソン病	5
+C0030567	hsa:10891	PPARGC1A	H00057	Parkinson disease	パーキンソン病	5
+C0030567	hsa:65018	PINK1	H00057	Parkinson disease	パーキンソン病	5
+C0002736	hsa:2550	GABBR1	H00058	Amyotrophic lateral sclerosis (ALS); Lou Gehrig disease	筋萎縮性側索硬化症 (ALS)	1
+C0020179	hsa:135	ADORA2A	H00059	Huntington disease	ハンチントン病	1
+C0018203	hsa:3458	IFNG	H00098	Chronic granulomatous disease	慢性肉芽腫症	1
+C0020445	hsa:5465	PPARA	H00155	Familial hypercholesterolemia; Autosomal dominant hypercholesterolaemia	家族性高コレステロール血症	4
+C0020445	hsa:5468	PPARG	H00155	Familial hypercholesterolemia; Autosomal dominant hypercholesterolaemia	家族性高コレステロール血症	4
+C0020445	hsa:5467	PPARD	H00155	Familial hypercholesterolemia; Autosomal dominant hypercholesterolaemia	家族性高コレステロール血症	4
+C0020445	hsa:6720	SREBF1	H00155	Familial hypercholesterolemia; Autosomal dominant hypercholesterolaemia	家族性高コレステロール血症	4
+C0010346	hsa:3586	IL10	H00286	Crohn disease	クローン病	1
+C0011854	hsa:1493	CTLA4	H00408	Type 1 diabetes mellitus	1型糖尿病	2
+C0011854	hsa:80380	PDCD1LG2	H00408	Type 1 diabetes mellitus	1型糖尿病	2
+C1800706	hsa:2864	FFAR1	H01299	Idiopathic pulmonary fibrosis	特発性肺線維症	1
+C0023817	hsa:4023	LPL	H01383	Hyperlipoproteinemia type IIa; LDL receptor disorder	高リポ蛋白血症 IIa 型; LDL レセプター欠損症	1
+C0035372	hsa:4204	MECP2	H00440	Rett syndrome	レット症候群	1
+C0002874	hsa:367	AR	H01132	Aplastic anemia	再生不良性貧血	1
+C0017601	hsa:1131	CHRM3	H00612	Primary open angle glaucoma; Glaucoma 1	原発開放隅角緑内障; 緑内障 1 型	5
+C0017601	hsa:109	ADCY3	H00612	Primary open angle glaucoma; Glaucoma 1	原発開放隅角緑内障; 緑内障 1 型	5
+C0017601	hsa:112	ADCY6	H00612	Primary open angle glaucoma; Glaucoma 1	原発開放隅角緑内障; 緑内障 1 型	5
+C0017601	hsa:115	ADCY9	H00612	Primary open angle glaucoma; Glaucoma 1	原発開放隅角緑内障; 緑内障 1 型	5
+C0017601	hsa:5737	PTGFR	H00612	Primary open angle glaucoma; Glaucoma 1	原発開放隅角緑内障; 緑内障 1 型	5
