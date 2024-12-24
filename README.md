@@ -68,13 +68,13 @@ mv /path/to/the/downloaded/data/VAE/data/folder /path/to/this/repo/VAE/
 - Therapeutic target prediction with SSL-VQ: `/PiModel/`
 - Therapeutic target–disease association data of goldstandard set: `/semisupervised/data/`
 - Therapeutic target–disease association data of uncharacterized disease set: `/semisupervised/data_old/`
-- Requirements: `./env/requirements.txt`
+- Requirements: `/env/requirements.txt`
 
 
 
 ## Usage
 
-### Training SSL-VQ model and predicting novel therapeutic targets.
+### 1. Train SSL-VQ model.
 
 Go to the following directory.
 
@@ -85,7 +85,7 @@ $ cd ./PiModel/scr_train
 If you want to train predictive model for inhibitory targets.
 
 ```
-$ python3 ./01_Pi_NN_concat.py \
+$ python3 ./01_Train.py \
 --fold_number=1 \
 --pert_type=trt_sh.cgs \
 --gene_hidden_sizes 1024 512 256 \
@@ -95,7 +95,7 @@ $ python3 ./01_Pi_NN_concat.py \
 If you want to train predictive model for activatory targets.
 
 ```
-$ python3 ./01_Pi_NN_concat.py \
+$ python3 ./01_Train.py \
 --fold_number=1 \
 --pert_type=trt_oe \ 
 --gene_hidden_sizes 1024 512 256 \
@@ -109,6 +109,36 @@ The example command parameters mean:
 - `--gene_hidden_sizes`: Hidden layer sizes of neural network (e.g. 1024 512 256)
 - `--gene_epochs`: Neural network training epochs (e.g. 2000)
 
+
+
+### 2. Predict novel therapeutic targets.
+
+If you want to train predictive model for inhibitory targets.
+
+```
+$ python3 ./02_NewPredict.py \
+--fold_number=1 \
+--pert_type=trt_sh.cgs \
+--gene_hidden_sizes 1024 512 256 \
+--gene_epochs=2000
+```
+
+If you want to train predictive model for activatory targets.
+
+```
+$ python3 ./02_NewPredict.py \
+--fold_number=1 \
+--pert_type=trt_oe \ 
+--gene_hidden_sizes 1024 512 256 \
+--gene_epochs=2000
+```
+
+The example command parameters mean:
+
+- `--fold_number`: Cross validation fold number (e.g. 1, 2, ..., 5)
+- `--pert_type`: Perturbation type of protein perturbation profiles (e.g. trt_sh.cgs or trt_oe)
+- `--gene_hidden_sizes`: Hidden layer sizes of neural network (e.g. 1024 512 256)
+- `--gene_epochs`: Neural network training epochs (e.g. 2000)
 
 
 ## Output files
