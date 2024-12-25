@@ -141,11 +141,39 @@ The example command parameters mean:
 - `--gene_epochs`: Neural network training epochs (e.g. 2000)
 
 
-## Output files
+### Output files
 
 - `saved_gene_nn.pkl`: Trained model
 - `output.txt`: Prediction results
 - `gene_nn_train_results.csv`: Log data of training process
+
+
+
+### 3. Visualization of performance comparisons.
+
+If you want to predict new inhibitory targets with the trained model.
+
+```
+$ cd ./performance_evaluation/src
+$ python3 ./Visualization_Known_Global.py \
+--pert_type=trt_sh.cgs
+```
+
+If you want to predict new activatory targets with the trained model.
+
+```
+$ cd ./performance_evaluation/src
+$ python3 ./Visualization_Known_Global.py \
+--pert_type=trt_oe
+```
+
+The example command parameters mean:
+
+- `--pert_type`: Perturbation type of protein perturbation profiles (e.g. trt_sh.cgs or trt_oe)
+
+The output figure of performance evaluation of inhibitory target predictions is as follow:
+
+![alt text](global.png)
 
 
 
