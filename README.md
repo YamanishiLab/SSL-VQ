@@ -173,7 +173,7 @@ The example command parameters mean:
 
 The output figure of performance evaluation of inhibitory target predictions is as follow:
 
-![alt text](global.png)
+<img src="global.png" width="60">
 
 
 
