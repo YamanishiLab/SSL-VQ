@@ -33,7 +33,7 @@ The basic requirements for running TRESOR are [python>=3.11](https://www.python.
 - [torch==2.1.1](https://pytorch.org/)
 - [torcheval==0.0.7](https://pytorch.org/torcheval/stable/)
 
-Datails on system requirements is contained in the following file: `env/requirements.txt`.
+Datails on system requirements is contained in the following file: [requirements.txt](https://github.com/YamanishiLab/SSL-VQ/blob/main/env/requirements.txt).
 
 <br>
 
