@@ -6,8 +6,12 @@
 /PiModel/scr_train/except/*
 /VAE/data/*
 /VAE/scr_VQ_VAE_target/.ipynb_checkpoints
+/VAE/scr_VQ_VAE_target/03_VQ-VAE_main_target_numpy_local.ipynb
 /VAE/scr_VQ_VAE_disease/.ipynb_checkpoints
+/VAE/scr_VQ_VAE_disease/02_VQ-VAE_main_disease_numpy.ipynb
 /VAE/scr_VAE_target/.ipynb_checkpoints
+/VAE/scr_VAE_target/01_Target_numpy.ipynb
 /VAE/scr_VAE_disease/.ipynb_checkpoints
+/VAE/scr_VAE_disease/01_Disease_numpy.ipynb
 /performance_evaluation/src/.ipynb_checkpoints
 /performance_evaluation/src/Visualization_Known_Global.ipynb
