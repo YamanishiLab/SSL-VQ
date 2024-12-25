@@ -111,7 +111,7 @@ The example command parameters mean:
 
 
 
-### 2. Predict new therapeutic targets.
+### 2. Predict new therapeutic targets with the trained model.
 
 If you want to predict new inhibitory targets with the trained model.
 
