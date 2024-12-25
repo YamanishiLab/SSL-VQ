@@ -171,7 +171,7 @@ The example command parameters mean:
 
 - `--pert_type`: Perturbation type of protein perturbation profiles (e.g. trt_sh.cgs or trt_oe)
 
-The output figure of performance evaluation of inhibitory target predictions is as follow:
+The output figure of performance evaluation of inhibitory target predictions is as follows:
 
 <img src="global.png" width="500">
 
