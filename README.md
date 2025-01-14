@@ -50,7 +50,7 @@ cd /path/to/this/repo/
 
 ## Downloading data :earth_asia:
 
-Please download datasets required for this method from [here](https://yamanishi.cs.i.nagoya-u.ac.jp/sslvq/) or [Zenodo](10.5281/zenodo.14644837), and put the downloaded `data` folders under the this repository.
+Please download datasets required for this method from [here](https://yamanishi.cs.i.nagoya-u.ac.jp/sslvq/) or Zenodo [10.5281/zenodo.14644837](10.5281/zenodo.14644837), and put the downloaded `data` folders under the this repository.
 ```
 mv /path/to/the/downloaded/data/PiModel/data/folder /path/to/this/repo/PiModel/
 mv /path/to/the/downloaded/data/VAE/data/folder /path/to/this/repo/VAE/
